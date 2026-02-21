@@ -1,0 +1,5 @@
+confirmation_number,name,ticket_number,flight_date,from_city,to_city,flight_number,departure_time,arrival_time,amount_paid
+TAEGKX,"John Smith",0177200658,2019-04-05,"Los Angeles","San Francisco",1490,08:20:00,"09:25:00 PM",357.60
+TAEGKX,"Jennifer Smith",0178410326,2019-04-05,"Los Angeles","San Francisco",1490,08:20:00,"09:25:00 PM",357.60
+TAEGKX,"John Smith",0177200658,2019-04-07,"San Francisco","Los Angeles",1473,14:00:00,"15:15:00 PM",357.60
+TAEGKX,"Jennifer Smith",0178410326,2019-04-07,"San Francisco","Los Angeles",1473,14:00:00,"15:15:00 PM",357.60
